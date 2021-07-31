@@ -1,0 +1,47 @@
+nav figure{
+	margin-left: 12px;
+	margin-bottom: 3px;
+}
+
+nav .container-fluid .collapse{
+	margin-right: 50px;
+}
+
+.konten1{
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+
+.konten2{
+	padding-top: 40px;
+	padding-bottom: 40px;
+	background-color: #2772DB;
+	min-height: 200px;
+}
+
+.konten2 .thumbnail h3{
+	font-size: 20px;
+	padding-top: 10px;
+}
+
+.konten2 .thumbnail p{
+	font-size: 15px;
+}
+
+
+.kontak{
+	padding-top: 40px;
+	padding-bottom: 40px;
+	min-height: 200px;
+}
+
+
+.info{
+	font-size: 14px;
+
+}
+
+footer{
+	padding: 10px;
+}
